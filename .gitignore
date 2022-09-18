@@ -1,0 +1,5 @@
+.vscode
+bin
+SDL2.dll
+not_in_use_cppfiles
+git.txt
